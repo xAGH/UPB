@@ -1,0 +1,6 @@
+Ciudad,infectados,muertos;
+Barranquilla,4500,89;
+Bucaramanga,3245,23;
+Bogota,6896,103;
+Medellin,3567,75;
+Cali,4211,23;

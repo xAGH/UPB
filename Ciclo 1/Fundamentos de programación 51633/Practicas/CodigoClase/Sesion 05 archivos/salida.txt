@@ -1,0 +1,2 @@
+linea 1 del archivo 
+linea 2 del archivo 
