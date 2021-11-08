@@ -1,0 +1,9 @@
+([
+{"ítem":"Vino Mio", "referencia":"1002", "precio":2.30, "date":new Date(2012, 1, 2)},
+{"ítem":"Vino Mio Crianza", "referencia":"1003", "precio":9.50, "date":new Date(2012, 1, 2), },
+{"ítem":"Vino Salvador", "referencia":"0058", "precio":18.95, "date":new Date(2012, 1, 2)},
+{"ítem":"Vino Mio", "referencia":"1002", "precio":2.30, "date":new Date(2012, 1, 2)},
+{"ítem":"Vino Torres", "referencia":"3105", "precio":4.65, "date":new Date(2012, 1, 2)},
+{"ítem":"Vino Mio", "referencia":"1002", "precio":2.30, "date":new Date(2012, 1, 5)},
+{"ítem":"Vino Torres", "referencia":"1002", "precio":4.65, "date":new Date(2012, 1, 5)}
+])
